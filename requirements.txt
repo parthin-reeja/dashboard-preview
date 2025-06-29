@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+tensorflow
+matplotlib
+scikit-learn
+nbimporter
+pycallgraph2
